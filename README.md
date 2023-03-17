@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Git Clone
 
 https://github.com/rivainasution/Test_technical_code.git
+
+### Open directory
+
 cd Test_technical_code
 
 ## `Install Package`
